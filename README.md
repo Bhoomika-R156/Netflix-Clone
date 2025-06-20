@@ -24,13 +24,20 @@ Copy
 Edit
 project-folder/
 │
+
 ├── assets/
+
 │   └── images/
+
 │       ├── bg.jpg
+
 │       └── logo.svg
+
 │
 ├── index.html
+
 ├── style.css
+
 └── video1.m4v  (optional local video file)
 
 🖼️ Screenshots
