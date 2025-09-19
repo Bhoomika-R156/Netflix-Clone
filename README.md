@@ -47,6 +47,8 @@ project-folder/
 
 └── video1.m4v  (optional local video file)
 
+---
+
 🖼️ Screenshots
 Hero Section with email input
 Section with TV and autoplaying video
