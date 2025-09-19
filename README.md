@@ -2,6 +2,8 @@
 
 This is a responsive front-end Netflix India clone landing page built using HTML5 and CSS3. The design is inspired by the official Netflix homepage and replicates its layout, sections, and basic functionality using static HTML and CSS.
 
+---
+
 🔥 Features
 Hero section with dark background image overlay
 Navbar with language and sign-in buttons
@@ -12,6 +14,8 @@ Kids profile and download features showcase
 FAQ accordion-style layout (static)
 Footer with important links
 Fully responsive design using media queries
+
+---
 
 🧰 Tech Stack
 HTML5
