@@ -67,6 +67,7 @@ Connect form to backend (e.g., Firebase or Node.js)
 Theme switcher (light/dark mode)
 Add real movie API (e.g., TMDb) to display dynamic content
 
+
 🧑‍💻 Author
 Designed and developed by [Bhoomika].
 
