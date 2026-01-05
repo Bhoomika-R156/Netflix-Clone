@@ -4,7 +4,7 @@ This is a responsive front-end Netflix India clone landing page built using HTML
 
 ---
 
-🔥 Features
+🔥 # Features
 Hero section with dark background image overlay
 Navbar with language and sign-in buttons
 Email input field to simulate membership start
